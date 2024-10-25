@@ -5,3 +5,9 @@
     line-height: 26px;
 
 }
+
+.header {
+    background-color: rgb(54, 172, 54);
+    position: sticky;
+    top: 0px;
+}
